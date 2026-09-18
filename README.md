@@ -1,7 +1,4 @@
-﻿# CSLModernMap macOS renderer download mirror
-
-Public host for the CSLModernMap macOS renderer (Intel x86_64). Not a source repo.
-
-## Release assets
-- CSLModernMapRenderer-macos-x64.app.zip
-- CSLModernMapRenderer-macos-x64.app.zip.sha256
+> ## 📦 下载 / Download
+>
+> 请在页面右侧 **Releases** 区域下载最新版本。  
+> Download the latest version from **Releases** on the right side of this page.
